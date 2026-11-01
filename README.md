@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/Maimuzamilhu/toondirector/releases/latest/download/ToonDirector-Setup-1.0.0.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows%20installer-f4b92e?style=for-the-badge"></a>
+</p>
+
+<p align="center">
 <a href="#see-it-work">See it work</a> ·
 <a href="#features">Features</a> ·
 <a href="#install">Install</a> ·
@@ -59,6 +63,12 @@ Sources and permissions are listed in [`demo/CREDITS.md`](demo/CREDITS.md). The 
 
 ## Install
 
+### The easy way
+Download **[ToonDirector-Setup-1.0.0.exe](https://github.com/Maimuzamilhu/toondirector/releases/latest)** (237 MB) and run it. It installs without admin rights, and you can choose any drive.
+
+The installer isn't signed yet, so Windows may show a SmartScreen warning. Click **More info**, then **Run anyway**.
+
+### From source
 **You need:** Windows 10 or 11, [Python 3.12](https://www.python.org/downloads/), and an API key from any [supported provider](#ai-providers). Several are free.
 
 ```
