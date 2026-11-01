@@ -1,0 +1,14 @@
+PySide6_Essentials
+PySide6_Addons
+mediapipe
+opencv-python
+numpy
+pycairo
+openai
+python-dotenv
+faster-whisper
+yt-dlp
+edge-tts
+resvg_py
+uv
+pyinstaller

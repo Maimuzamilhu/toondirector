@@ -1,0 +1,38 @@
+# private: keys, settings, personal data
+.env
+ai_providers.json
+notifications.json
+*.pfx
+
+# videos and generated work
+jobs/
+demo/src/
+
+# large downloads and environments
+models/
+tools/
+.venv/
+.venv-voice/
+
+# build output
+dist/
+dist_store/
+build/
+build_store/
+.tmp/
+*.msix
+*.spec.bak
+__pycache__/
+*.pyc
+
+# not part of the app
+legacy/
+reference/
+
+# Store submission notes
+store/listing.md
+
+# browser profiles from testing: contain logins, never publish
+.chrome-debug/
+.edge-debug/
+*-debug/
