@@ -9,8 +9,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Maimuzamilhu/toondirector/releases/latest/download/ToonDirector-Setup-1.0.0.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows%20installer-f4b92e?style=for-the-badge"></a>
+<a href="https://apps.microsoft.com/detail/9N9QFN8HBTZQ?mode=direct"><img alt="Get it from Microsoft Store" src="https://get.microsoft.com/images/en-us%20dark.svg" width="220"></a>
 </p>
+
+<p align="center"><b>Now on the Microsoft Store.</b> One click to install, no security warning, and updates arrive automatically.<br>
+Prefer a plain installer? <a href="https://github.com/Maimuzamilhu/toondirector/releases/latest/download/ToonDirector-Setup-1.0.0.exe">Download the .exe</a> (237 MB).</p>
 
 <p align="center">
 <a href="#see-it-work">See it work</a> ·
@@ -63,7 +66,10 @@ Sources and permissions are listed in [`demo/CREDITS.md`](demo/CREDITS.md). The 
 
 ## Install
 
-### The easy way
+### From the Microsoft Store (recommended)
+**[Get ToonDirector from the Microsoft Store](https://apps.microsoft.com/detail/9N9QFN8HBTZQ?mode=direct)** and click **Install**. Microsoft checks and signs the app, so there's no SmartScreen warning, and new versions install automatically.
+
+### With the installer
 Download **[ToonDirector-Setup-1.0.0.exe](https://github.com/Maimuzamilhu/toondirector/releases/latest)** (237 MB) and run it. It installs without admin rights, and you can choose any drive.
 
 The installer isn't signed yet, so Windows may show a SmartScreen warning. Click **More info**, then **Run anyway**.
